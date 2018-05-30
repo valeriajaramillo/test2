@@ -1,3 +1,4 @@
+clear all
 % GUI for Exploring Travelling Waves
 function swa_Explorer(varargin)
 DefineInterface
