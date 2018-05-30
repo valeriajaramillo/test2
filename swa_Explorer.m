@@ -1,3 +1,7 @@
+
+function visualization(varargin)
+plot(1:10);
+end
 % GUI for Exploring Travelling Waves
 function swa_Explorer(varargin)
 DefineInterface
