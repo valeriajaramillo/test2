@@ -1,6 +1,7 @@
 
 function visualization(varargin)
 plot(1:10);
+title("awesome plot");
 end
 % GUI for Exploring Travelling Waves
 function swa_Explorer(varargin)
